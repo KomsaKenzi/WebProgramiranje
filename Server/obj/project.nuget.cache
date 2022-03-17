@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fm5yCZfyrovEVhBD2VuBmBzKm6fXoNXf3VnjSD9qAO+fDLrmz8z+IredUDxT+/tFUS1rv3Jn8BJ4jOAOWUZQQw==",
+  "dgSpecHash": "qJPQ/36wxIa4RjfgirSvwQ+06pkvNMsAqw90AESPYGFA3J4LtBXDbcFUXJRr7ehjH+u4KHY5SgCxnRVj2NzVMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenzi\\Desktop\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\Kenzi\\Desktop\\Web\\Server\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenzi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kenzi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

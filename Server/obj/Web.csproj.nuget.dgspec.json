@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kenzi\\Desktop\\Web\\Web.csproj": {}
+    "C:\\Users\\Kenzi\\Desktop\\Web\\Server\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kenzi\\Desktop\\Web\\Web.csproj": {
+    "C:\\Users\\Kenzi\\Desktop\\Web\\Server\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenzi\\Desktop\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\Kenzi\\Desktop\\Web\\Server\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\Kenzi\\Desktop\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\Kenzi\\Desktop\\Web\\Server\\Web.csproj",
         "packagesPath": "C:\\Users\\Kenzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenzi\\Desktop\\Web\\obj\\",
+        "outputPath": "C:\\Users\\Kenzi\\Desktop\\Web\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenzi\\AppData\\Roaming\\NuGet\\NuGet.Config"
